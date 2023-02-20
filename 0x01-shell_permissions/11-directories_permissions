@@ -1,2 +1,2 @@
 #!/bin/bash
-supo chmod 711 ./
+supo chmod -R 711 .
