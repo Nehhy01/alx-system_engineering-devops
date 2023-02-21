@@ -1,2 +1,2 @@
 #!/bin/bash
-git add . ; git commit -m  "cheick the f detail" ; git push
+git add . ; git commit -m  "check the mf detail" ; git push
